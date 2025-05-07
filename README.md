@@ -1,12 +1,8 @@
-# Desarrollo de Aplicaciones Web
-# Prueba 1
-Integrantes:
-- Joshua Morocho (Scrum Master)
-- Kevin Muñoz (Equipo de desarrollo)
-- Josue Mejia (Equipo de desarrollo)
-# Descripcion
-Uso de una API privada "FaceIO" y una API publica "Enveloop" en el proyecto llamado Red Vital que se ajusta a las peticiones de la prueba.
+# React + Vite
 
-El evidenciable del codigo se encuentra en la carpeta Documentacion.
+This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-El link del FireHosting se encuentra en la carpeta Despliegue.
+Currently, two official plugins are available:
+
+- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
+- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
